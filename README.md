@@ -1,6 +1,6 @@
-<h1 align="center">ʟᴏᴜɪs sᴀɴᴛᴏs / ᴡᴇ_ᴛᴜʀᴋᴢᴢᴢ</h1>
+<h1 align="center">wE-tUrKzzz / Louis Santos </h1>
 <p align="center">
-  <b>wE_tUrKzzz</b> • Web Developer • Creator • Designer • Student
+  Im a 👨‍💻 Web Developer | 🎨 Creative Creator | 🖌️ UI/UX Designer | 🚀 Student
 </p>
 <hr>
 
