@@ -1,3 +1,8 @@
+<h1 align="center">ʟᴏᴜɪs sᴀɴᴛᴏs / ᴡᴇ_ᴛᴜʀᴋᴢᴢᴢ</h1>
+<p align="center">
+  <b>wE_tUrKzzz</b> • Web Developer • Creator • Designer • Student
+</p>
+<hr>
 
 ###
 
