@@ -1,6 +1,6 @@
 <h1 align="center">wE-tUrKzzz / Louis Santos </h1>
 <p align="center">
-  Im a 👨‍💻 Web Developer | 🎨 Creative Creator | 🖌️ UI/UX Designer | 🚀 Student
+  Im a 👨‍💻 Web Developer | 🎨 Creative Creator | 🖌️ UI/UX Designer | 🚀 IT Graduate
 </p>
 <hr>
 
